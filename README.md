@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
+### Hola! SiD here ;)
 
 - 🔭 I’m currently working at [Codemugg](https://github.com/Codemugg/)
 - 🌱 I’m currently learning Flutter
