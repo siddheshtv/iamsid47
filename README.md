@@ -1,16 +1,21 @@
 ### Hola! I'm Siddhesh - aka [SiD](https://github.com/iamsid47) 👋
 
-[![Website](https://img.shields.io/website?label=codemugg.live&style=for-the-badge&url=https%3A%2F%2Fcodemugg.live)](https://codemugg.live)
-[![Twitter Follow](https://img.shields.io/twitter/follow/siddhesh_kulthe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/@siddhesh_kulthe)
+[Website](https://codemugg.live)
+
+[Twitter](https://twitter.com/@siddhesh_kulthe)
+
+[Instagram](https://instagram.com/iamsid47)
+
+[LinkedIn](https://linkedin.com/in/siddheshkulthe)
 
 ## **A Developer | Entrepreneur | Learner**
 
 <br/>
 
-- 🔭 I’m currently working at [Codemugg](https://github.com/Codemugg/)
+- 🔭 I’m currently working at [CODEMUGG INC](https://github.com/Codemugg/)
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with Everyone ;)
-- 🤔 I’m looking for help with my organization: [Codemugg](https://github.com/Codemugg/)
+- 🤔 I’m looking for help with my organization: [CODEMUGG INC](https://github.com/Codemugg/)
 - 💬 Ask me about Flutter
 - 📫 How to reach me: siddheshkulthe43@gmail.com
 - 😄 Pronouns: he/him/his
