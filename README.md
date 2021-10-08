@@ -35,16 +35,17 @@
 
 <br/>
 
-- 🔭 I’m currently working at [Codemugg Inc](https://github.com/Codemugg/)
-- 🌱 I’m currently learning Flutter
-- 🤔 I’m looking for help with my organization: [Codemugg Inc](https://github.com/Codemugg/)
+- 🔭 Working at [Codemugg,Inc.](https://github.com/Codemugg/)
+- 🖥️ Reacting To React
+- 👋 I’m looking for help with my organization: [Codemugg Inc](https://github.com/Codemugg/)
 - 💬 Ask me about Flutter
-- 📫 How to reach me: siddheshkulthe43@gmail.com
-- 😄 Pronouns: he/him/his
+- 📫 Reach me: sid@codemugg.com
+- 🎨 UI/UX Guru
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love Coffee & Coffee loves me back!
 <br />
 
-[Website](http://codemugg.com)   |   [Twitter](https://twitter.com/@siddhesh_kulthe)   |   [Instagram](https://instagram.com/iamsid47)   |   [LinkedIn](https://linkedin.com/in/siddheshkulthe)
+[Website](http://codemugg.com)   |   [Twitter](https://twitter.com/@kulthefic)   |   [Instagram](https://instagram.com/iamsid47)   |   [LinkedIn](https://linkedin.com/in/siddheshkulthe)
 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
