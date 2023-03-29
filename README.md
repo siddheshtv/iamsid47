@@ -1,15 +1,15 @@
-<h1 align="center">Howdy 🤠 I'm Siddhesh!</h1>
+<h1 align="left" style="font-family: monospace;">Howdy 🤠 Siddhesh here!</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamsid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=pip install sid-details" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=iamsid&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M j[, Y]" height="150" alt="streak graph"  />
+<div align="left">
+  <img src ="https://github-readme-stats.vercel.app/api?username=iamsid47&show_icons=true&theme=dark" style="margin-left: 10px"/>
+  <img src="https://streak-stats.demolab.com?user=iamsid47&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M j[, Y]" height="200" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzkwODllNWRkYzU4NDJlNmZiZjAyOTQwYzhhMDgwOWM2YTg0OGQ1NCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzkwODllNWRkYzU4NDJlNmZiZjAyOTQwYzhhMDgwOWM2YTg0OGQ1NCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 ###
 
@@ -66,6 +66,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/iamsid/iamsid/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/iamsid47/iamsid47/blob/output/snake.svg" alt="Snake animation" />
 
 ###
