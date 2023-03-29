@@ -1,16 +1,15 @@
-<h1 align="left" style="font-family: monospace;">Howdy 🤠 Siddhesh here!</h1>
+<pre align="left" style="font-family: monospace;"><code>home@inside:coffee$ pip install sid-profile</code></pre>
 
 ###
 
 <div align="left">
-  <h4>pip install sid-profile</h4> <br/>
   <img src ="https://github-readme-stats.vercel.app/api?username=iamsid47&show_icons=true&theme=dark" style="margin-left: 10px"/>
   <img src="https://streak-stats.demolab.com?user=iamsid47&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M j[, Y]" height="200" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNhNjI1MjIzODA0ZTA3MTA4OGIzODExMDhjN2RkYWM4NjU1OTE0NiZjdD1n/WsNbxuFkLi3IuGI9NU/giphy.gif" />
+<img align="right" height="200" src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif" />
 
 
 ###
