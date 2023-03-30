@@ -1,4 +1,5 @@
-<pre align="left" style="font-family: monospace;"><code>home@inside:coffee$ pip install sid-profile</code></pre>
+<h2><pre align="left" style="font-family: monospace;"><code>$ pip install siddhesh 
+//actually works!</code></pre><h2>
 
 ###
 
