@@ -1,5 +1,7 @@
 <h2><pre align="left" style="font-family: monospace;"><code>$ pip install siddhesh 
-//actually works!</code></pre><h2>
+$ python
+>>> import siddhesh as sk
+>>> sk.start() #actually works!</code></pre><h2>
 
 ###
 
