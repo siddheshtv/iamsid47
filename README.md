@@ -7,7 +7,7 @@ $ python
 
 <div align="left">
   <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=iamsid47&show_icons=true&theme=dark" style="margin-left: 10px"/>
-  [[](https://streak-stats.demolab.com?user=iamsid47&theme=dark&mode=weekly&stroke=EBEBEB&background=45%2C000000%2C171717)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamsid47&mode=weekly)](https://git.io/streak-stats)
 </div>
 
 ###
