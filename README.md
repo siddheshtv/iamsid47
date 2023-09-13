@@ -7,7 +7,7 @@ $ python
 
 <div align="left">
   <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=iamsid47&show_icons=true&theme=dark" style="margin-left: 10px"/>
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=iamsid47&mode=weekly" style="margin-left: 10px"/>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=iamsid47&mode=weekly&theme=dark" style="margin-left: 10px"/>
 </div>
 
 ###
