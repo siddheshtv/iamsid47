@@ -1,7 +1,7 @@
-<h2><pre align="left" style="font-family: monospace;"><code>$ pip install siddhesh 
+<pre align="left" style="font-family: monospace;"><code>$ pip install siddhesh 
 $ python
 >>> import siddhesh as sk
->>> sk.start() #actually works!</code></pre><h2>
+>>> sk.start() #actually works!</code></pre>
 
 ## Check My Portfolio - <a href="https://siddheshkulthe.netlify.app">siddheshkulthe.netlify.app</a>
 
