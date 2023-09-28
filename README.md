@@ -3,7 +3,7 @@ $ python
 >>> import siddhesh as sk
 >>> sk.start() #actually works!</code></pre><h2>
 
-  ## Check My Portfolio - <a href="https://siddheshkulthe.netlify.app">siddheshkulthe.netlify.app</a>
+## Check My Portfolio - <a href="https://siddheshkulthe.netlify.app">siddheshkulthe.netlify.app</a>
 
 <div align="left">
   <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=iamsid47&show_icons=true&theme=dark" style="margin-left: 10px"/>
