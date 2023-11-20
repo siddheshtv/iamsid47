@@ -4,19 +4,12 @@ $ python
 >>> import siddhesh as sk
 >>> sk.start() </code></pre>
 
-## Check My Portfolio - <a href="https://siddheshkulthe.netlify.app">siddheshkulthe.netlify.app</a>
+## Check My Portfolio - <a href="https://siddheshkulthe.netlify.app">siddhesh.tv</a>
 
 <div align="left">
-  <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=iamsid47&show_icons=true&theme=dark" style="margin-left: 10px"/>
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=iamsid47&mode=weekly&theme=dark" style="margin-left: 10px"/>
+  <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=siddheshtv&show_icons=true&theme=dark" style="margin-left: 10px"/>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=siddheshtv&mode=weekly&theme=dark" style="margin-left: 10px"/>
 </div>
-
-###
-
-<img align="right" height="200" src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif" />
-
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
