@@ -64,8 +64,5 @@ $ python
 
 <br clear="both">
 
-<div align="">
-<img src = "https://github.com/siddheshtv/siddheshtv/blob/output/github-contribution-grid-snake.gif" />
-</div>
 
 ###
