@@ -4,7 +4,8 @@ $ python
 >>> import siddhesh as sk
 >>> sk.start() </code></pre>
 
-## Check My Portfolio - <a href="https://siddheshkulthe.netlify.app">siddhesh.tv</a>
+# AI nerd turned CEO - <a href="https://kulthe.co">kulthe.co</a>
+![Kulthe - AI Development Firm](https://raw.githubusercontent.com/siddheshtv/siddheshtv/main/kulthe.gif)
 
 <div align="left">
   <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=siddheshtv&show_icons=true&theme=dark" style="margin-left: 10px"/>
