@@ -1,13 +1,20 @@
-# Send Me A Message Using My Python Library
+# Machine Learning Engineer + Math ❤️
+- 🌟 Check out my portfolio at <a href="https://siddhesh.tv/?utm_source=github">siddhesh.tv</a>
+- 🚀 Currently working on `kbrain` a python lib for distributed computing in machine learning
+- 📧 You can reach me out at: <a href="mailto:siddheshkulthe43@gmail.com">siddheshkulthe43@gmail.com</a>
+
+## Send me a message using my Python library
 <pre align="left" style="font-family: monospace;"><code>$ pip install siddhesh 
 $ python
 >>> import siddhesh as sk
 >>> sk.start() </code></pre>
 
-# AI nerd turned CEO - <a href="https://kulthe.co">kulthe.co</a>
-![Kulthe - AI Development Firm](https://raw.githubusercontent.com/siddheshtv/siddheshtv/main/kulthe.gif)
+### Overfitting object detection models be like: 
+<div>
+  <img src="https://siddhesh.tv/static/media/pigeon_meme.478a9c14022854ba576b.webp" style="margin-left: 10px" />
+</div>
 
-<div align="left">
+<!-- <div align="left">
   <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=siddheshtv&show_icons=true&theme=dark" style="margin-left: 10px"/>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=siddheshtv&mode=weekly&theme=dark" style="margin-left: 10px"/>
 </div>
@@ -20,7 +27,6 @@ $ python
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64" width="64" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="64" width="64" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="64" width="64" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="64" width="64" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="64" width="64" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="64" width="64" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="64" width="64" alt="docker logo"  />
@@ -35,7 +41,7 @@ $ python
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="64" width="64" alt="nuxtjs logo"  />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="64" width="64" alt="vuejs logo"  />
 
-</div>
+</div> -->
 
 ###
 
