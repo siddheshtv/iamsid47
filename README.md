@@ -1,7 +1,10 @@
-# Machine Learning Engineer + Math ❤️
+# ML Engineer /  Hyprland user / nvim chad
 - 🌟 Check out my portfolio at <a href="https://siddhesh.tv/?utm_source=github">siddhesh.tv</a>
-- 🚀 Currently working on `kbrain` a python lib for distributed computing in machine learning
-- 📧 You can reach me out at: <a href="mailto:siddheshkulthe43@gmail.com">siddheshkulthe43@gmail.com</a>
+- Heavily research focused
+- Learning about Linux Kernel
+- Blowing my leg off with C++ 
+- <h3>( -_•)▄︻テحكـ━一 c++ c+++ c+++++     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    🦵🏻</h3>
+
 
 ## Send me a message using my Python library
 <pre align="left" style="font-family: monospace;"><code>$ pip install siddhesh 
@@ -14,35 +17,6 @@ $ python
   <img src="https://siddhesh.tv/static/media/pigeon_meme.478a9c14022854ba576b.webp" style="margin-left: 10px" />
 </div>
 
-<!-- <div align="left">
-  <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=siddheshtv&show_icons=true&theme=dark" style="margin-left: 10px"/>
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=siddheshtv&mode=weekly&theme=dark" style="margin-left: 10px"/>
-</div>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="64" width="64" alt="pytorch logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="64" width="64" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="64" width="64" alt="tensorflow logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="64" width="64" alt="anaconda logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64" width="64" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="64" width="64" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="64" width="64" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="64" width="64" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="64" width="64" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="64" width="64" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="64" width="64" alt="digitalocean logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="64" width="64" alt="electron logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="64" width="64" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="64" width="64" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="64" width="64" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="64" width="64" alt="graphql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="64" width="64" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="64" width="64" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="64" width="64" alt="nuxtjs logo"  />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="64" width="64" alt="vuejs logo"  />
-
-</div> -->
-
 ###
 
 <div align="left">
@@ -53,10 +27,3 @@ $ python
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-
-###
