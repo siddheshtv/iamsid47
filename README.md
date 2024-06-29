@@ -8,3 +8,5 @@ Fun Facts
 - I have a kitten btw
 - I brew my own coffee sometimes
 - Heavily research focused
+<br />
+<strong><em>Available for job/research</em></strong>
